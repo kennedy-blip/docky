@@ -4,4 +4,5 @@ run
 dev
 trials
 untill
+mind
 ai fix

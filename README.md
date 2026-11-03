@@ -3,3 +3,4 @@ npm
 run
 dev
 trials
+ai fix
